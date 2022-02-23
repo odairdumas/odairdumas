@@ -1,9 +1,5 @@
-- 👋 Olá, meu nome é ODAIR DUMAS
--  
-- 👀 Tenho interesse em FÍSICA, Programação, TI, Linux, Música...
-- 
-- 🌱 Sou professor de FÍSICA, trabalho em um colégio público Militar
-- 
-- 💞️ Gostaria de aprender outras linguagens, pois só conheço C++
--  
+- 👋 Olá, meu nome é ODAIR DUMAS 
+- 👀 Tenho interesse em FÍSICA, Programação, TI, Linux, Música... 
+- 🌱 Sou professor de FÍSICA, trabalho em um colégio público Militar 
+- 💞️ Gostaria de aprender outras linguagens, pois só conheço C++ 
 - 📫 odairdumas@ufpr.br
