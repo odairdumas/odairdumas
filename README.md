@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é ODAIR DUMAS 
-- 👀 Tenho interesse em FÍSICA, Programação, TI, Linux, Música... 
-- 🌱 Sou professor de FÍSICA, trabalho em um colégio público Militar 
-- 💞️ Gostaria de aprender outras linguagens, pois só conheço C++ 
+- 👋 Olá, meu nome é ODAIR DUMAS, sou um trompetista CCB que acredita no Criacionismo 
+- 👀 Tenho interesse em FÍSICA, Matemática, Programação,Robótica,TI, Linux, Música... 
+- 🌱 Sou Professor de FÍSICA, trabalho em um colégio público Militar 
+- 💞️ Gostaria de aprender outras linguagens, pois só conheço o básico de C++ 
 - 📫 odairdumas@ufpr.br
